@@ -1,0 +1,2 @@
+# JDModule
+JDWish Module
