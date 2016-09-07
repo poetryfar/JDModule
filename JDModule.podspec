@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "JDModule"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "JDModule testing"
   s.description  = <<-DESC 
                       私有pods测试
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "9.0"
  
   #先不填写tag
-  s.source       = { :git => "https://github.com/poetryfar/JDModule.git",:tag =>  0.0.2 }
+  s.source       = { :git => "https://github.com/poetryfar/JDModule.git",:tag =>  "0.0.2" }
   s.source_files = "JDModule/*.swift"
 
  s.frameworks = 'UIKit','Foundation' 
