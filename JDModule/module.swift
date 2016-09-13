@@ -1,6 +1,5 @@
 public class Person{
-	print("aaa")
-
-
-
+	func foo(){
+		print("aa")
+	}
 }
